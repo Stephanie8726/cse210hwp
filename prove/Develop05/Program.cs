@@ -1,7 +1,3 @@
-using System;
-using System.Collections.Generic;
-using System.IO;
-
 class Program
 {
     static void Main()
@@ -10,6 +6,7 @@ class Program
 
         while (true)
         {
+            Console.WriteLine();
             Console.WriteLine("Menu Options:");
             Console.WriteLine("1. Create new goal");
             Console.WriteLine("2. List Goals");
