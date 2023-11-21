@@ -1,0 +1,4 @@
+1560
+SimpleGoal: Be Fit, Eat healthy foods and exercise daily., True, 10, 10
+EternalGoal: Go To the Temple, Visit temple at least twice a week to perform ordinances., True, 50
+ChecklistGoal: Study Scripture, Study scripture at least 15 minutes per day., True, 1200, 3, 1000, 100, 3
